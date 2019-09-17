@@ -4,10 +4,10 @@
 		"modpack":
 		{
             "image" : "mainmenu:modpack.png",
-            "posX" : -90,
-            "posY" : -220,
-            "width" : 180,
-            "height" : 180,
+            "posX" : -60,
+            "posY" : -150,
+            "width" : 120,
+            "height" : 120,
             "alignment" : "center"
 		}
     },
@@ -238,7 +238,7 @@
         "splash-text":
         {
             "posX" : 90,
-            "posY" : 170,
+            "posY" : 100,
             "color" : -256,
             "alignment" : "top_center",
             "texts" : "file:mainmenu:splashes.txt"
