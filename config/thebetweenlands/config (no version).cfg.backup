@@ -1,0 +1,38 @@
+# Configuration file
+
+general {
+    B:"Betweenlands Main Menu"=true
+    B:"Debug mode"=false
+    B:"Model loader debug"=false
+    B:"Rowboat view"=true
+}
+
+
+"mob spawning" {
+    I:"Max. entities per loaded area"=250
+    I:"Max. entities per world"=600
+}
+
+
+rendering {
+    I:"Sky texture resolution (only when shaders are enabled)"=1024
+    B:"Use shaders for rendering (this forces FBOs to be enabled)"=true
+    I:"Wisp Rendering Quality (0-100)"=50
+}
+
+
+"world and dimension" {
+    B:"Biome ID Limit"=true
+    I:"Coarse Islands Biome ID"=51
+    I:"Deep Water Biome ID"=52
+    I:"Dimension brightness (0-100)"=75
+    I:"Frequency of Druid Circles. Higher numbers de-crease rate."=80
+    I:"Marsh 1 Biome ID"=54
+    I:"Marsh 2 Biome ID"=55
+    I:"Patchy Islands Biome ID"=53
+    I:"Sludge Plains Biome ID"=56
+    I:"Swamplands Biome ID"=50
+    I:"The Betweenlands Dimension ID"=20
+}
+
+
